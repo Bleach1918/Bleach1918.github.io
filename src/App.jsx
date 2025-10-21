@@ -2,6 +2,7 @@ import { useState } from 'react'
 import AsciiTyping from './typing'
 import art1 from './assets/ascii1.txt?raw'
 import art2 from './assets/ascii2.txt?raw'
+import video from './public/video.mov'
 import './App.css'
 
 function App() {
@@ -10,7 +11,7 @@ function App() {
       <AsciiTyping arts={[art1, art2]}/>
 
       <video autoPlay loop muted playsInline className='background-video'>
-        <source src='./public/video.mov' type="video/mp4"/>
+        <source src={video} type="video/mp4"/>
       </video>
 
       <div className="container">
