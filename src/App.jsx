@@ -9,6 +9,10 @@ function App() {
     <>
       <AsciiTyping arts={[art1, art2]}/>
 
+      <video autoPlay loop muted playsInline className='background-video'>
+        <source src='./public/video.mov' type="video/mp4"/>
+      </video>
+
       <div className="container">
 
         <div className="main">
