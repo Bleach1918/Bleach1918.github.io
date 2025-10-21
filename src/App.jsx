@@ -20,9 +20,8 @@ function App() {
           </div>
 
           <div className="socials">
-            <a className="socialText" href="https://twitter.com/">twitter</a>
-            <a className="socialText" href="https://instagram.com/">instagram</a>
-            <a className="socialText" href="https://last.fm/user/">last.fm</a>
+            <a className="socialText" href="github">https://github.com/Bleach1918</a>
+            <a className="socialText" href="linkedin">https://www.linkedin.com/in/kenzoinsolite/</a>
           </div>
 
         </div>
