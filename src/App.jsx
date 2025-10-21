@@ -2,7 +2,7 @@ import { useState } from 'react'
 import AsciiTyping from './typing'
 import art1 from './assets/ascii1.txt?raw'
 import art2 from './assets/ascii2.txt?raw'
-import video from './public/video.mov'
+import video from './assets/video.mov'
 import './App.css'
 
 function App() {
