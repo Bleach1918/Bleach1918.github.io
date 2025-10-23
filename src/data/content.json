@@ -1,0 +1,25 @@
+{
+    "en" : {
+        "about" : {
+            "title" : "About me",
+            "text" : [
+                "I am a fullstack software developer, working with technologies like Python, React, and Node, and I have some experience with SQL and JSON. I constantly strive to improve my knowledge through research and study. Currently pursuing a degree in Systems Analysis and Development, I am looking for an opportunity to expand and apply my skills in the real world.",
+                
+                "I have several projects, such as an email automation system using Google Apps Script for sending personalized messages with data from Google Sheets. I created a Python automation system (using the requests, pyexcel, and pandas libraries) to fetch logistics data from a web API, process it, and save it into a spreadsheet, reducing data entry errors and increasing efficiency. Additionally, I developed a Python automation script using Chromium WebDriver to perform web scraping of distances between multiple locations on Google Maps, as an alternative to a paid API, aiming for logistical planning and cost minimization. I also have an application in development that uses OpenCV and YOLO technology to perform real-time vehicle license plate recognition.",
+                
+                "Inspired by music, art, and fashion, I have hobbies in music production and creating visuals using TouchDesigner. I am also familiar with Adobe Premiere and After Effects, reflecting my interest in designing interfaces and experiences that are visually pleasing."
+            ]
+        }
+    },
+
+    "pt" : {
+        "about" : {
+            "title" : "Sobre mim",
+            "text" : [
+                "Sou desenvolvedor de software fullstack, utilizo de tecnologias como Python, React, Node e tenho alguma experiencia em SQL e JSON. Busco sempre aprimorar meus conhecimentos por meio de pesquisa e estudo. Atualmente cursando Análise e Desenvolvimento de Sistemas, busco uma oportunidade de expandir e aplicar meus conhecimentos no mundo real.",
+                "Tenho alguns projetos como um sistema de automação de e-mails usando Google Apps Script, para envio de mensagens personalizadas com dados do Google Sheets. Criei um sistema de automação em Python (biblioteca requests, pyexcel e pandas) para buscar dados logísticos em uma API web, processá-los e salvá-los em uma planilha, reduzindo erros de entrada de dados e aumentando a eficiência. Além disso, desenvolvi um script de automação em Python, utilizando Chromium WebDriver, para realizar web scraping da distância entre múltiplos locais no Google Maps, como alternativa à API paga, visando planejamento logístico e minimização de custos além de uma aplicação ainda em desenvolvimento que utiliza tecnologia OpenCV e YOLO para realizar a leitura de placas veiculares em tempo real.",
+                "Inspirado pela musica, arte e moda, tenho como hobbies a produção de musical e criação de visuais utilizando o programa TouchDesigner, também tenho familiaridade com os programas Adobe Premiere e After Effects, o que reflete minha busca por interfaces e experiências que sejam agradáveis ao olho humano. "
+            ]
+        }
+    }
+}
