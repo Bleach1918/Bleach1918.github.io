@@ -11,14 +11,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-html, body {
+body, html {
   margin: 0;
   padding: 0;
   width: 100%;
-  min-height: 100%;
-  overflow-x: hidden;
-  font-family: sans-serif;
-  background: black; /* optional */
+  height: 200vh;
 }
 
 h1 {
@@ -27,6 +24,6 @@ h1 {
 }
 
 p {
-  font-size: 1.1em;
+  font-size: 1.em;
   line-height: 1.1;
 }
